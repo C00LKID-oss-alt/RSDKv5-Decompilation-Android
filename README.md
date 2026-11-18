@@ -26,10 +26,10 @@ This project uses [CMake](https://cmake.org/), a versatile building system that 
 
 Instead, you will need to clone the repository using Git, which you can get [here](https://git-scm.com/downloads).
 
-Clone the repo **recursively**, using:
-`git clone --recursive https://github.com/RSDKModding/RSDKv5-Decompilation`
+Clone the forked repo **recursively**, using:
+`git clone --recursive https://github.com/C00LKID-oss-alt/RSDKv5-Decompilation-Android.git`
 
-If you've already cloned the repo, run this command inside of the repository:
+If you've already cloned the forked repo, run this command inside of the repository:
 ```git submodule update --init```
 
 ## Getting dependencies
