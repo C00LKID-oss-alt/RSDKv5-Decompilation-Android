@@ -14,7 +14,7 @@ We do not condone using this project as a means for piracy in any form. This pro
 * Added various other backends to windows aside from the usual DirectX 9 backends
 
 ## If you are here for Sonic Mania:
-You have the option of building RSDKv5 alongside Mania in [the Sonic Mania Decompilation repo](https://github.com/RSDKModding/Sonic-Mania-Decompilation).
+You have the option of building RSDKv5 alongside Mania in [the forked Sonic Mania Decompilation repo](https://github.com/C00LKID-oss-alt/Sonic-Mania-Decompilation-Android).
 
 # How to Build
 
@@ -50,7 +50,7 @@ Install the following dependencies: then follow the [compilation steps below](#c
 - **apt (Debian/Ubuntu):** `sudo apt install build-essential cmake libglew-dev libglfw3-dev libtheora-dev`
 - **rpm (Fedora):** `sudo dnf install make cmake gcc glew-devel glfw-devel libtheora-devel zlib-devel`
 - **xbps (Void):** `sudo xbps-install make cmake gcc pkg-config glew-devel glfw-devel libtheora-devel zlib-devel`
-- Your favorite package manager here, [make a pull request](https://github.com/RSDKModding/RSDKv5-Decompilation/fork) (also update [Mania](https://github.com/RSDKModding/Sonic-Mania-Decompilation)!)
+- Your favorite package manager here, [make a pull request](https://github.com/RSDKModding/RSDKv5-Decompilation/fork) (also update [Mania](https://github.com/C00LKID-oss-alt/Sonic-Mania-Decompilation-Android)!)
 
 #### (make sure to [install GL shaders!](FAQ.md#q-why-arent-videosfilters-working-while-using-gl))
 
