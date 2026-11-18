@@ -18,7 +18,7 @@
       * MacOS: `ln -s "[path]" "[name-of-symlink]"` **(Basically the same as the Linux command)**
 * Open `[root]/android/` in Android Studio, install the NDK and everything else that it asks for, and build.
 
-**GL shaders are not required,
+**GL shaders are not required, as the game logic that is packaged with the APK will handle it instead.**
 ## Common build issues (Windows)
 ### `make: *** INTERNAL: readdir: No such file or directory`
 Delete `android/app/build` and try again. This occurs when the path is short enough to build, but too long for a rebuild. 
